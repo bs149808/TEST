@@ -28,7 +28,9 @@ public class test {
    System.out.format("%d - %d = %d\n", x, -y, obj.subtract(x,-y));
    System.out.format("%d - %d = %d\n", -x, -y, obj.subtract(-x,-y));
    // End of partner's tampering
+   
+   // I hate everything
   }
 
-}
+
 
